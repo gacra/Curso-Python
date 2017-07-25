@@ -1,0 +1,55 @@
+-----------
+Instalação
+-----------
+
+- Site: https://www.python.org/downloads/
+- Baixar Python 3
+- Instalar (clicar no Add ao Path)
+
+- Para Linux: sudo apt-get install python3
+
+-----
+IDLE
+-----
+
+- Ambiente de desenvolvimento integrado
+- Menu iniciar
+- Para auto completar funções (segurar shift após o abre parênteses)
+- Reiniciar o shell: Ctrl + F6
+
+--------
+Sublime
+--------
+
+- Rodar programa: Ctrl + b
+- Shell: Tools -> SublimeREPL -> Shell
+
+-------------------
+Estrutura de dados
+-------------------
+
+- Listas []
+- Tuplas ()
+- Conjuntos {}
+- Dicionários {:,:,:}
+
+--------------
+Code Skulptor
+--------------
+
+http://www.codeskulptor.org/
+
+----
+PIP
+----
+
+No prompt: 
+-Instalar pip install [nome do pacote]
+-Ver se já tem: pip show [nome do pacote]
+-Listar pacotes: pip list
+
+------------------
+Python para zumbis
+------------------
+
+https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc
