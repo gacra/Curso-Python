@@ -24,6 +24,14 @@ Sublime
 - Rodar programa: Ctrl + b
 - Shell: Tools -> SublimeREPL -> Shell
 
+--------
+PyCharm
+--------
+
+- Baixar: https://www.jetbrains.com/pycharm/
+- Download Now -> Community
+
+
 -------------------
 Estrutura de dados
 -------------------
